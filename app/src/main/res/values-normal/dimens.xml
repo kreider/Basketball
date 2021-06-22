@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "textSize" >35sp</dimen>
+    <dimen name = "buttonSize" >50sp</dimen>
+
+    <dimen name="starttextsize">50sp</dimen>
+
+</resources>
